@@ -7,6 +7,7 @@ const CartListData = [
     {
         name: "BMW UX",
         price: 100,
+         image: car1 ,
         aosDelay: "0",
     },
     {
